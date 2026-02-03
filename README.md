@@ -4,4 +4,6 @@
 
 Задание: Функции и события JS.
 
-Запуск - 
+Запуск - https://bakhtiyaaar.github.io/Practice-3/
+
+
